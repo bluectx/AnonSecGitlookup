@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ASLGIT
+Comment=Retrieve informations about a github username/email
+Exec=/home/ctx/Desktop/osint/aslgithub/build.sh
+Icon=/home/ctx/Desktop/osint/aslgithub/logoanonsec.svg
+Terminal=true
+Categories=Utility;Development;
+Keywords=github;osint;security;
+Path=/home/ctx/Desktop/osint/aslgithub
+

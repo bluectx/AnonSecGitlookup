@@ -1,0 +1,6 @@
+argparse == 1.4.0
+requests == 2.32.2
+Pillow == 10.4.0
+pyscreenshot == 3.1
+urllib3 == 2.5.0
+certifi == 2025.11.12
