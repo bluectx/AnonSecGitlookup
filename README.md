@@ -1,9 +1,11 @@
 # AnonSecGitlookup
 
 <p align="center">
-  <img alt="GitHub commits" src="https://badgen.net/github/commits/BlueCtx/AnonSecGitlookup">
-  <img alt="GitHub watchers" src="https://badgen.net/github/watchers/BlueCtx/AnonSecGitlookup">
-  <img alt="GitHub stars" src="https://badgen.net/github/stars/BlueCtx/AnonSecGitlookup">
+  <a href="https://github.com/bluectx/AnonSecGitlookup/watchers/"><img alt="GitHub watchers" src="https://badgen.net/github/watchers/bluectx/AnonSecGitlookup"></a>
+  <a href="https://github.com/bluectx/AnonSecGitlookup/releases/"><img alt="Github all releases" src="https://img.shields.io/github/downloads/bluectx/AnonSecGitlookup/total.svg"></a>
+  <a href="https://github.com/bluectx/AnonSecGitlookup/commit/"><img alt="GitHub commits" src="https://badgen.net/github/commits/bluectx/AnonSecGitlookup"></a>
+  <a href="https://github.com/bluectx/AnonSecGitlookup/tags/"><img alt="Github tag" src="https://badgen.net/github/tag/bluectx/AnonSecGitlookup"></a>
+  <a href="https://github.com/bluectx/AnonSecGitlookup/releases"><img alt="Latest release" src="https://badgen.net/github/release/bluectx/AnonSecGitlookup"></a>
   <br>
   <strong>Retrieve information about a GitHub username or email</strong>
   <br>
